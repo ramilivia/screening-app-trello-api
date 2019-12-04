@@ -8,4 +8,4 @@
 - Ejecutar la aplicación corriendo 'npm start'
 
 # Visual Proof
-![alt text](https://raw.githubusercontent.com/ramilivia/wyeworks-trello/master/proof.jpg)
+![alt text](https://raw.githubusercontent.com/ramilivia/screening-app/master/proof.jpg)
