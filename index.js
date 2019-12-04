@@ -11,7 +11,7 @@ dotenv.config();
 const start = async () => {
     const discography = utils.readDiscography(process.env.DISCOGRAPHY_PATH);
     let token = await spotify.getToken();
-    const trelloBoardId = await trello.createBoard('WyeWorks Discography FINAL');
+    const trelloBoardId = await trello.createBoard('Board Discography FINAL');
     let currentDecade = -1, currentList;
     for (let i = 0; i < discography.length; i++) {
         let album = discography[i];
