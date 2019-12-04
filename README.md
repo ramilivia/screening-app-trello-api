@@ -1,3 +1,5 @@
+This application took between six and seven hours to be made
+
 # screening-app
 
 - Goal
