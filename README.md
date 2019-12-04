@@ -1,4 +1,4 @@
-# wyeworks-trello
+# screening-app
 
 - Para ejecutar la aplicación primero configurar el archivo .env
   - Configurar DISCOGRAPHY_PATH con la ruta al archivo discography.txt
